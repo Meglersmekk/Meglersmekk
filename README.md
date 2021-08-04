@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meglersmekk
-- 👀 I’m interested in bees, but for work it is mostly databases.
+- 👀 I’m interested in BEES, but for work it is mostly databases.
 - 🌱 I’m currently learning more about Azure.
 - 📫 If you want to reach me, send an email to pal.fladsrud@gmail.com
 
